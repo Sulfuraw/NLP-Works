@@ -1,8 +1,8 @@
 # Folders Description
  
 - NLP: Course 2263: Computational Linguistic
-    - Prediction
-    - Similarity
+    - Prediction: 
+    - Similarity: Practical reimplementation of 3 similarity of words techniques: TF-IDF, PPMI & Word2Vec
     - Encoder: Seq2Seq encoder decoder structure to make translation from english to french using Keras and Tensorflow.
 
 # Explanation
