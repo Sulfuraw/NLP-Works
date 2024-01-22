@@ -1,7 +1,7 @@
 # Folders Description
  
 - NLP: Course 2263: Computational Linguistic
-    - Prediction: 
+    - Prediction/categorization: Prediction of words using Maximum likelihood estimation (MLE) and laplace smoothing. And then sentiment analysis via categorization of sentence using Binary Naive Bayes and the structure bag of words.
     - Similarity: Practical reimplementation of 3 similarity of words techniques: TF-IDF, PPMI & Word2Vec
     - Encoder: Seq2Seq encoder decoder structure to make translation from english to french using Keras and Tensorflow.
 
